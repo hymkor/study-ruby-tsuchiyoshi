@@ -22,5 +22,5 @@ end
 
 ![image](./failure.png)
 
-[スレッドk]: https://mstdn.jp/@acid_rain@amefur.asia/110343374842403892
+[スレッド]: https://mstdn.jp/@acid_rain@amefur.asia/110343374842403892
 
